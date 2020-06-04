@@ -1,0 +1,11 @@
+C:\Users\Akik\Desktop\курсач\BruteForce\BruteForce\bin\Debug\netcoreapp3.1\BruteForce.exe
+C:\Users\Akik\Desktop\курсач\BruteForce\BruteForce\bin\Debug\netcoreapp3.1\BruteForce.deps.json
+C:\Users\Akik\Desktop\курсач\BruteForce\BruteForce\bin\Debug\netcoreapp3.1\BruteForce.runtimeconfig.json
+C:\Users\Akik\Desktop\курсач\BruteForce\BruteForce\bin\Debug\netcoreapp3.1\BruteForce.runtimeconfig.dev.json
+C:\Users\Akik\Desktop\курсач\BruteForce\BruteForce\bin\Debug\netcoreapp3.1\BruteForce.dll
+C:\Users\Akik\Desktop\курсач\BruteForce\BruteForce\bin\Debug\netcoreapp3.1\BruteForce.pdb
+C:\Users\Akik\Desktop\курсач\BruteForce\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.csprojAssemblyReference.cache
+C:\Users\Akik\Desktop\курсач\BruteForce\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.AssemblyInfoInputs.cache
+C:\Users\Akik\Desktop\курсач\BruteForce\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.AssemblyInfo.cs
+C:\Users\Akik\Desktop\курсач\BruteForce\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.dll
+C:\Users\Akik\Desktop\курсач\BruteForce\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.pdb
